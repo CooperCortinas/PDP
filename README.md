@@ -11,6 +11,6 @@ Visualization: This is a graph showing the amount of distance I ran per day on t
 ![Data_115PersonalDataProject](https://user-images.githubusercontent.com/91585746/145490068-183eec51-6173-4405-8445-a72abda06fa0.jpeg)
 
 
-Analysis: I did a linear model regression with distance ran in kilometers as the x-value and the amount of food eaten in kilocalories on the y-axis.  I found that the equation for the line of best fit was kCal = 1438.39 + 148.61(KM) with the coefficient of determination being 0.7213455.  So, the relationship between distance ran and food eaten was somewhat linear.  It became much more linear after the days with no distance ran were removed.
+Analysis: I did a linear model regression with distance ran in kilometers as the x-value and the amount of food eaten in kilocalories on the y-axis.  I found that the equation for the line of best fit was kCal = 1438.39 + 148.61(KM) with the coefficient of determination being 0.7213455.  So, the relationship between distance ran and food eaten was somewhat linear.  It became much more linear after the days with no distance ran were removed.  I ended up not using the sleep data in the regression because the main correlation was between the day of the week and my sleep based on what my schedule was that day and the next day and there was hardly any correlation between sleep and running distance or food eaten.
 
 
