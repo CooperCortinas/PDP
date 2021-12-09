@@ -7,8 +7,10 @@ Data Process:  I collected the sleep data and the running data through a Garmin 
 
 
 Visualization: This is a graph showing the amount of distance I ran per day on the x-axis with the amount of food I ate on the y-axis.  The line through the middle of the data is a line of best fit.  It is showing the correlation between the distance ran and the amount of food that I ate throughout the day. 
-![Data_115PersonalDataProject](https://user-images.githubusercontent.com/91585746/145490068-183eec51-6173-4405-8445-a72abda06fa0.jpeg)
+
 
 
 
 Analysis: I did a linear model regression with distance ran in kilometers as the x-value and the amount of food eaten in kilocalories on the y-axis.  I found that the equation for the line of best fit was kCal = 1438.39 + 148.61(KM) with the coefficient of determination being 0.7213455.  So, the relationship between distance ran and food eaten was somewhat linear.  It became much more linear after the days with no distance ran were removed.
+
+![Data_115PersonalDataProject](https://user-images.githubusercontent.com/91585746/145490068-183eec51-6173-4405-8445-a72abda06fa0.jpeg)
