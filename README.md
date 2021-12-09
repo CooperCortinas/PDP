@@ -6,6 +6,10 @@ Motivation: I wanted to find out how the amount I run correlates to how much I e
 Data Process:  I collected the sleep data and the running data through a Garmin Forerunner 235 watch and the Garmin Connect app.  I collected calories eaten through the MyFitnessPal app which connects to the Garmin Connect app.  I would make sure to track everything I ate throughout the day and to track every run I went on as well as making sure to wear the watch to sleep every night to make this data as accurate as possible.  I was thinking about removing the days that I do not run but decided that it would be good to have the days that I have no running to act as a baseline or just a normal day of eating and sleeping.  I did remove the month of September because I was sick during the whole month and being sick would have had no running with lots of sleep and not as much eating, so the data would have been skewed.
 
 
+Visualization: 
+![Data_115PersonalDataProject](https://user-images.githubusercontent.com/91585746/145490068-183eec51-6173-4405-8445-a72abda06fa0.jpeg)
+
+
 
 
 
